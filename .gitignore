@@ -1,0 +1,5 @@
+sandbox/node_modules/*
+data/*
+server/.venv/*
+server/__pycache__
+sandbox/.env.development
